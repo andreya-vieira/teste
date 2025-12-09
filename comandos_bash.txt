@@ -1,0 +1,3 @@
+curso do teo
+sobre git
+github
