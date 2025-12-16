@@ -9,4 +9,6 @@ de cód e rep remotos.
 
 Além disso vamos trabalhar com gitflow e vs code
 
-curso legal 
+curso legal
+
+Uma nova linha inserida
